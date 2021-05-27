@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\bin\Debug\Plus Minus.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\bin\Debug\Plus Minus.exe
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\bin\Debug\Plus Minus.pdb
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\obj\Debug\Plus Minus.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\obj\Debug\Plus Minus.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\obj\Debug\Plus Minus.exe
+C:\Users\Akram\Desktop\HackerRank\Day4\Plus Minus\obj\Debug\Plus Minus.pdb
